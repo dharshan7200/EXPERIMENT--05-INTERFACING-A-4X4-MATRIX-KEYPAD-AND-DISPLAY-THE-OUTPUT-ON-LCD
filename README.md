@@ -363,11 +363,11 @@ void key(void)
 
 
 ## Output screen shots of proteus  :
-<img width="1920" height="1140" alt="O1" src="https://github.com/user-attachments/assets/7680100f-4d74-4c82-a1b9-cd800b5b7c79" />
+<img width="1201" height="844" alt="O1" src="https://github.com/user-attachments/assets/7680100f-4d74-4c82-a1b9-cd800b5b7c79" />
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/7d521eb3-eecf-47a8-8294-26e6f57a2bc9" />
+<img width="1201" height="844"  alt="image" src="https://github.com/user-attachments/assets/7d521eb3-eecf-47a8-8294-26e6f57a2bc9" />
 
  
 ## Result :
